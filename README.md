@@ -74,13 +74,13 @@ Your Vault/
 
 **After: filed into clean, formatted notes**
 
-![Generated Section note - Email Authentication](docs/screenshots/section-1-example.png)
-
-![Generated Section note - TCP Handshake](docs/screenshots/section-2-example.png)
+![Generated flashcards](docs/screenshots/flashcards.png)
 
 ![Generated Lab Overview](docs/screenshots/lab-overview.png)
 
-![Generated flashcards](docs/screenshots/flashcards.png)
+![Generated Section note - Email Authentication](docs/screenshots/section-1-example.png)
+
+![Generated Section note - TCP Handshake](docs/screenshots/section-2-example.png)
 
 ## Setup
 
